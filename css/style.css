@@ -237,7 +237,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #fef4ec;
+    background-color: #f2e2e2;
     height: auto;
     background-size: 100%;
 }
@@ -398,7 +398,7 @@ button {
     width: 100%;
     float: left;
     padding-bottom: 90px;
-    
+    background-color: #363636;
 }
 
 .product_taital {
@@ -407,7 +407,7 @@ button {
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;
-    color: #232322;
+    color: #f2e2e2;
     font-weight: bold;
 }
 
@@ -416,7 +416,7 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    color: #50504f;
+    color: #f2e2e2;
     margin: 0px;
 }
 
@@ -494,8 +494,8 @@ button {
 }
 
 .buy_bt li.active a {
-    background-color: #f5ddb6;
-    color: #fff;
+    background-color: #f2e2e2;
+    color: #1f1f1f;
 }
 
 .price_text {
@@ -539,7 +539,7 @@ button {
 .about_section {
     width: 100%;
     float: left;
-    background-color: #fef4ec;
+    background-color: #f2e2e2;
     height: auto;
     padding-bottom: 90px;
 }
@@ -717,12 +717,13 @@ button {
 .contact_section {
     width: 100%;
     float: left;
+    background-color: #363636;
 }
 
 .contact_taital {
     width: 100%;
     float: left;
-    color: #1a1c1b;
+    color: #f2e2e2;
     font-weight: bold;
     font-size: 40px;
     text-transform: uppercase;
@@ -731,7 +732,7 @@ button {
 .contact_text {
     width: 100%;
     float: left;
-    color: #252525;
+    color: #f2e2e2;
     margin: 0px;
     font-size: 16px;
 }
@@ -750,7 +751,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #f2e2e2;
     padding: 10px 30px;
     background-color: #252525;
     text-transform: uppercase;
